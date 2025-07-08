@@ -7,7 +7,7 @@
 - Firebase-based Quiz App
 
 📫 How to reach me:
-[![Gmail Badge](https://img.shields.io/badge/-huynhnguyenthanhthao@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:huynhnguyenthanhthao@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-huynhnguyenthanhthao130603@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:huynhnguyenthanhthao@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-MyLinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/huynhnguyenthar)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huynhthaoo&layout=compact)
