@@ -12,7 +12,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huynhthaoo&layout=compact)
 <p align="center">
-  <img src="https://your-image-link.gif" />
+  <img src="[https://your-image-link.gif](https://art.pixilart.com/sr5z1dd66f8738aws3.png)" />
 </p>
 
 
