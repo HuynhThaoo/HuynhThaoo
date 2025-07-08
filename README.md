@@ -11,7 +11,11 @@
 [![LinkedIn](https://img.shields.io/badge/-MyLinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/huynhnguyenthar)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huynhthaoo&layout=compact)
-
+<p align="center">
+  <img src="https://your-image-link.gif" />
+</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huynhthaoo&show_icons=true&theme=tokyonight)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=huynhthaoo)
 <!--
 **HuynhThaoo/HuynhThaoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
